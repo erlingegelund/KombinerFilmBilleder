@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KombinerBillederFilm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="filesDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\</Value>
+    </Setting>
+    <Setting Name="ffmpeg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\ImageMagick-7.0.7-Q16\ffmpeg.exe</Value>
+    </Setting>
+    <Setting Name="loopLength" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
